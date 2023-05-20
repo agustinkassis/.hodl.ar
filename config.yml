@@ -22,7 +22,7 @@ theme:
 
 # Configuración Central
 main:
-  title: Mi Nombre # Aca podes poner tu nombre o el de tu producto
+  title: "Yofu" # Aca podes poner tu nombre o el de tu producto
 
 # Lista de bloques
 blocks:
@@ -33,13 +33,13 @@ blocks:
     icon: instagram
     url: https://www.instagram.com/lacryptaok/
 
-# - title: Twitter
-#   icon: twitter
-#   url: https://twitter.com/TU-USUARIO
+  - title: Twitter
+    icon: twitter
+    url: https://twitter.com/TU-USUARIO
     
-# - title: LinkedIn # Este es el nombre del botón
-#   icon: linkedin # Este es el nombre del icono (si queres añadir una red social nueva, prestá atencion que es todo con minúscula)
-#   url: https://linkedin.com/in/TU-USUARIO # Link a donde redireccionará al hacer click
+  - title: LinkedIn # Este es el nombre del botón
+    icon: linkedin # Este es el nombre del icono (si queres añadir una red social nueva, prestá atencion que es todo con minúscula)
+    url: https://linkedin.com/in/TU-USUARIO # Link a donde redireccionará al hacer click
 
 # - title: Github
 #   icon: github
