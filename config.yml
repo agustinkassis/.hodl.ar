@@ -7,8 +7,8 @@ version: 0.3.5 # NO TOCAR
 username: "yofu" # < TU_USUARIO@hodl.ar
 
 # NOSTR Settings
-# nostr: # Sin el # adelante
-#   npub: "TU_PUB" # Entre comillas dobles
+nostr: # Sin el # adelante
+  npub: "npub1xwttw25kxxgaj8acrzq0vyq8gg4m4ew429klcxwz99p7yjrdv3zs8p0swh" # Entre comillas dobles
 
 # Configuración Global
 html:
